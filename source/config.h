@@ -10,8 +10,8 @@
 #define NIMBLE_SO_NAME "libNimble.so"
 #define SO_NAME        "libPVZ2.so"
 
-#define DATA_DIR "sdmc:/switch/pvz2_nx"
-#define OBB_NAME "main.1051.com.ea.game.pvz2_row.obb"
+#define DATA_DIR "sdmc:/switch/pvz2_rfl"
+#define OBB_NAME "main.675.com.ea.game.pvz2_rfl.obb"
 
 // Address-space split (see __libnx_initheap in main.c). libnative.so is ~12 MB
 // of code+data; reserve a fixed zone for it + relocation scratch and give the
